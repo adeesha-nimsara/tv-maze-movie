@@ -1,0 +1,17 @@
+.landing-image {
+    height: 100vh !important;
+}
+
+.cursor-pointer:hover {
+    cursor: pointer;
+    /* Change cursor to pointer on hover */
+}
+
+.scale-down:hover {
+    transform: scale(0.9);
+}
+
+.btn-close {
+    color: red;
+    /* Change color to your desired color */
+}
